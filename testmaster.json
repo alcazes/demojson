@@ -2,7 +2,7 @@
   "type": "master",
   "configs": [
     {
-      "url": ""
+      "url": "https://raw.githubusercontent.com/alcazes/demojson/refs/heads/main/testchild1.json"
     }
   ]
 }
